@@ -9,7 +9,6 @@ import {
   Textarea,
 } from "@/components";
 import { generateQrCode } from "@/lib";
-import Head from "next/head";
 import Image from "next/image";
 import { useActionState } from "react";
 
